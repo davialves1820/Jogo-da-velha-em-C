@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-/*JOGO DA VELHA
-*/ 
+//JOGO DA VELHA
+
 
 void preencher_jogo(char jogo[][3]) { // inicializar cada posição da matriz com espaço em branco
     for (int i = 0;i < 3; i++) {
