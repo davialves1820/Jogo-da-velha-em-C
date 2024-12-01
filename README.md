@@ -42,6 +42,8 @@ digite a linha e coluna que voce quer jogar(nessa ordem): 1 1
 - Um dos jogadores vencer.
 - Todas as posições forem preenchidas (empate).
 
+---
+
 ## ✨ Recursos Implementados
 - Inicialização do tabuleiro vazio.
 - Verificação de jogadas válidas.
@@ -51,6 +53,8 @@ digite a linha e coluna que voce quer jogar(nessa ordem): 1 1
 - Diagonais
 - Detecção de empate.
 - Opção para jogar novamente após o término do jogo.
+
+---
 
 ## 🎮 Demonstração
 
@@ -67,7 +71,7 @@ Após algumas jogadas
 ```
 colunas     0   1   2       linhas
 
-            X |   |           0
+            X |   |  O        0
             ------------
             O | X |           1
             ------------
@@ -77,6 +81,7 @@ Resultado final
 ```
 PARABENS JOGADOR X :)
 ```
+---
 
 ## 🖥️ Estrutura do Código
 - preencher_jogo: Inicializa o tabuleiro.
